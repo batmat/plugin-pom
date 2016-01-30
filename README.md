@@ -29,6 +29,7 @@ In order to use the new POM:
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
     <version>2.3</version>
+    <relativePath />
   </parent>
 ```
 * Override the needed properties, e.g.:
